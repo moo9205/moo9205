@@ -11,7 +11,7 @@
 
   - <b>Social media</b> : <a href="https://velog.io/@pizzahand/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-00CCBB?style=for-the-badge&logo=vimeo&logoColor=white&link=https://velog.io/@pizzahand/"
+        src="http://img.shields.io/badge/-Velog-00CCBB?style=for-the-badge&logo=vimeo&logoColor=white&link=https://velog.io/@pizzahand/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
