@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=200&section=header&text=Welcome%20to%20my%20github&fontSize=70)
 
-###  <center> 👋 Hi there 👋 
+### 👋 Hi there 👋 
 ### This is moo9205 a.k.a Pizzahand studying for Front-end developer
   - <b>Studying</b> : <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>, <img src="http://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black"
